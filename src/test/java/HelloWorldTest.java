@@ -11,7 +11,6 @@ public class HelloWorldTest {
 
   @Before
   public void setUpStreams() {
-
     System.setOut(new PrintStream(outContent));
   }
 
