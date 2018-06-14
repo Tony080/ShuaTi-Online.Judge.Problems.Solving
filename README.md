@@ -10,4 +10,4 @@
 A repo to solve online judge problems with explaination. Distributed into several packages based on the problem categories.
 
 ## Table of Contents
-1. [Breadth First Search(BFS)]()
+1. [Breadth First Search(BFS)](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs)
