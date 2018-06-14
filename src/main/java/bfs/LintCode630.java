@@ -25,10 +25,6 @@ public class LintCode630 {
    * @return: the shortest path
    */
   public int shortestPath2(boolean[][] grid) {
-    if (grid == null || grid.length == 0 || grid[0].length == 0) {
-      return 0;
-    }
-
     int[] yBias = {2, 2, 1, 1};
     int[] xBias = {1, -1, 2, -2};
     Queue<Coordinate> queue = new LinkedList<>();
