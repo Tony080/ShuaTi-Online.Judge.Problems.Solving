@@ -16,11 +16,13 @@ public class LintCode630Test {
     boolean[][] test3 = new boolean[3][4];
     test3[2][3] = true;
     boolean[][] test4 = new boolean[3][3];
+    boolean[][] test5 = new boolean[1][1];
 
     LintCode630 lintCode630 = new LintCode630();
     assertEquals(3, lintCode630.shortestPath2(test1));
     assertEquals(-1, lintCode630.shortestPath2(test2));
     assertEquals(-1, lintCode630.shortestPath2(test3));
     assertEquals(-1, lintCode630.shortestPath2(test4));
+    assertEquals(-1, lintCode630.shortestPath2(test5));
   }
 }
