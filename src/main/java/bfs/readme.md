@@ -1,7 +1,7 @@
 # Breadth First Search(BFS)
 Wiki: https://en.wikipedia.org/wiki/Breadth-first_search
 ## 1. Basic BFS
-//TODO
+[LintCode726]()(Basic BFS + Tree childs not empty)
 ## 2. BFS level traversal
 //TODO
 
