@@ -9,5 +9,6 @@ wiki: https://en.wikipedia.org/wiki/Category:String_manipulation_templates
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode1193.java">Answer</a>, 
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode1193Test.java">Test</a>
     </p>
-    <p><b>Description: </b>String detection using <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">bit wise manipulation</a></p>
+    <p><b>Description: </b>String detection using <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">bit wise manipulation</a>. 
+    If there has upper case in the middle while the entire word are not all in upper case, return <code>False</code>. Otherwise, return <code>True</code>.</p>
 </div>
