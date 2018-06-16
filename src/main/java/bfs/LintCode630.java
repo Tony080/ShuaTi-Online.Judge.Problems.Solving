@@ -57,6 +57,6 @@ public class LintCode630 {
     return (x == grid.length - 1) && (y == grid[0].length - 1) && !grid[x][y];
   }
   private boolean isValid(boolean[][] grid, int x, int y) {
-    return x >= 0 && y >= 0 && x < grid.length && y < grid[0].length && !grid[x][y];
+    return x >= 0 && x < grid.length && y < grid[0].length && !grid[x][y];
   }
 }
