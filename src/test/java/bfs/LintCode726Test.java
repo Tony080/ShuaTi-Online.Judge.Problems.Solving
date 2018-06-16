@@ -16,10 +16,16 @@ public class LintCode726Test {
     test2.left = new LintCode726.TreeNode(2);
     test2.right = new LintCode726.TreeNode(3);
     test2.left.left = new LintCode726.TreeNode(4);
+
+    LintCode726.TreeNode test3 = new LintCode726.TreeNode(1);
+    test3.left = new LintCode726.TreeNode(2);
+    test3.right = new LintCode726.TreeNode(3);
+    test3.left.right = new LintCode726.TreeNode(4);
     LintCode726 lintCode726 = new LintCode726();
 
 
     assertTrue(lintCode726.isFullTree(test1));
     assertFalse(lintCode726.isFullTree(test2));
+    assertFalse(lintCode726.isFullTree(test3));
   }
 }
