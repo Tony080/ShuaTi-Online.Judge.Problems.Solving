@@ -12,3 +12,4 @@ A repo to solve online judge problems with explanations. Distributed into severa
 ## Table of Contents
 1. [Breadth First Search(BFS)](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs)
 2. [Bitwise Operations](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation)
+3. [String Manipulation](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string)
