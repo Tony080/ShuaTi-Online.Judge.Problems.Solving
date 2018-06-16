@@ -23,7 +23,6 @@ public class LintCode726 {
    * @return: Whether it is a full tree
    */
   public boolean isFullTree(TreeNode root) {
-    // write your code here
     Queue<TreeNode> queue = new LinkedList<>();
     queue.offer(root);
     while (!queue.isEmpty()) {
