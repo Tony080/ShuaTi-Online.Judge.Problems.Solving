@@ -2,6 +2,9 @@
 wiki: https://en.wikipedia.org/wiki/Bitwise_operation
 
 ## 1. Count 1 in a number
+Any number can be converted to binary format. This kind of questions will ask you to 
+count # of 1's in a number.<br>
+Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(11111)`` contains five 1's.
 <div>
     <p>
         1. 
