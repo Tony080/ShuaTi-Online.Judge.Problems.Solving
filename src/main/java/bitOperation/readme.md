@@ -19,5 +19,5 @@ wiki: https://en.wikipedia.org/wiki/Bitwise_operation
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1046Test.java">Test</a>
     </p>
     <p><b>Description: </b>Iterate from <code>L</code> to <code>R</code>.
-    First count # of 1's in that number. Then judge if the # of 1's is a prime number. Finally, return how many # of 1s are prime.</p>
+    First count # of 1's in that number. Then judge if the # of 1's is a prime number. Finally, return how many # of 1s are prime. The total time complexity is <img src="http://chart.googleapis.com/chart?cht=tx&chl=O(n\sqrt{n})" /></p>
 </div>
