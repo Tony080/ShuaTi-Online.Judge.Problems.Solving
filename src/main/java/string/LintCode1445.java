@@ -22,6 +22,6 @@ public class LintCode1445 {
         return true;
       }
     }
-    return j == tLength;
+    return false;
   }
 }
