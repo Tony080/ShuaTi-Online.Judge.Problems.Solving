@@ -15,15 +15,14 @@ public class LintCode53 {
 
     for (int i = 0; i < length; i++) {
       char c = s.charAt(i);
-      if (c == ' ' && sb.length() != 0) {
+      if (c != ' ') {
+        sb.append(c);
+      } else if (sb.length() != 0) {
         result.insert(0, sb.toString());
         result.insert(0, ' ');
         sb.setLength(0);
-      } else if (c != ' ') {
-        sb.append(c);
       }
     }
-
     if (sb.length() != 0) {
       result.insert(0, sb.toString());
     } else if (result.length() != 0){
