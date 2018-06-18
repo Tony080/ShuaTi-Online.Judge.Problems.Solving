@@ -36,3 +36,15 @@ Given 2 strings, decide if one string is in another string via some operations(e
     </p>
     <p><b>Description: </b>Use the <code>Arrays.sort()</code> to sort the string array. <b>Lambda</b> is introduced to replace the traditional <code>Comparator</code>.</p>
 </div>
+
+## 4. String reverse
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/reverse-words-in-a-string/description">LintCode 53</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode53.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode53Test.java">Test</a>
+    </p>
+    <p><b>Description: </b><code>Stack</code> is considering used in this question. But actually use two <code>StringBuilder</code> to do the stuff. 
+    <code>StringBuilder.insert(index, content)</code> is used to act as a stack.</p>
+</div>
