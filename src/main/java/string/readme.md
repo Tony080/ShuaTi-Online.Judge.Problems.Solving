@@ -25,3 +25,14 @@ Given 2 strings, decide if one string is in another string via some operations(e
     <p><b>Description: </b>Use two pointers on each string to decide if the first string <code>s</code> can change to the second string <code>t</code>
     via deletion.</p>
 </div>
+
+## 3. String sorting
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/log-sorting/description">LintCode 1380</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode1380.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode1380Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Use the <code>Arrays.sort()</code> to sort the string array. <b>Lambda</b> is introduced to replace the traditional <code>Comparator</code>.</p>
+</div>
