@@ -14,6 +14,7 @@ public class LintCode589Test {
     assertFalse(lintCode589.query(1, 3));
     lintCode589.connect(2, 4);
     assertTrue(lintCode589.query(1, 4));
+    lintCode589.connect(1, 4);
   }
 
 }
