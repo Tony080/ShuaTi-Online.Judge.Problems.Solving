@@ -9,7 +9,8 @@ public class LintCode589 {
 
   /*
    * @param n: An integer
-   */public LintCode589(int n) {
+   */
+  public LintCode589(int n) {
     father = new int[n + 1];
     for (int i = 1; i <= n; i++) {
       father[i] = i;
