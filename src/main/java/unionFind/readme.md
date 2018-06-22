@@ -12,6 +12,16 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
     <p><b>Description: </b>Basic union find with <i>Road compress</i> method used to reduce the 
     time complexity of <code>find()</code>. It's <code>O(1)</code> on average.</p>
 </div>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/connecting-graph-ii/description">LintCode 590</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode590.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode590Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Follow up of <a href="https://www.lintcode.com/problem/connecting-graph/description">LintCode 589</a>. Besides get if 2 given nodes are connected. Return how many nodes the given node is connected with.
+    Need an extra array with the same size of union find array to hold the count. Basically, always save and update the total count on the root node.</p>
+</div>
 
 ## 2. 2-D union find
 <div>
