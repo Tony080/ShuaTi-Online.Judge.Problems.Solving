@@ -1,18 +1,17 @@
 package unionFind;
 
-//Link: https://www.lintcode.com/problem/connecting-graph-ii/description
-//Title: Connecting Graph II
+//Link: https://www.lintcode.com/problem/connecting-graph-iii/description
+//Title: Connecting Graph III
 //Difficulty: Medium
-public class LintCode590 {
+public class LintCode591 {
   private int[] father;
-  private int[] count;
+  private int count;
 
-  public LintCode590(int n) {
+  public LintCode591(int n) {
     father = new int[n + 1];
-    count = new int[n + 1];
+    count = n;
     for (int i = 1; i <= n; i++) {
       father[i] = i;
-      count[i] = 1;
     }
   }
 
@@ -28,12 +27,11 @@ public class LintCode590 {
     int rootB = find(b);
     if (rootA != rootB) {
       father[rootA] = rootB;
-      count[rootB] += count[rootA];
+      count--;
     }
   }
 
-  public int query(int a) {
-    int x = find(a);
-    return count[x];
+  public int query() {
+    return count;
   }
 }

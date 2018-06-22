@@ -22,6 +22,16 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
     <p><b>Description: </b>Follow up of <a href="https://www.lintcode.com/problem/connecting-graph/description">LintCode 589</a>. Besides get if 2 given nodes are connected. Return how many nodes the given node is connected with.
     Need an extra array with the same size of union find array to hold the count. Basically, always save and update the total count on the root node.</p>
 </div>
+<div>
+    <p>
+        3. 
+        <a href="https://www.lintcode.com/problem/connecting-graph-iii/description">LintCode 591</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode591.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode591Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Follow up of <a href="https://www.lintcode.com/problem/connecting-graph/description">LintCode 589</a>. Calculate the total unique graph count. 
+    Use a global count as initialized to the total number of nodes on start. When there is a connect & re-root operation, <code>count--</code>.</p>
+</div>
 
 ## 2. 2-D union find
 <div>
