@@ -40,7 +40,7 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode178Test.java">Test</a>
     </p>
     <p><b>Description: </b>Use union find to decide if the given 2-D array holds a valid tree. There should have and only have exactly one common father after 
-    the uninon find "connect" operation for each edges.</p>
+    the uninon find "connect" operation for each edges. Otherwise, there can have more than one tree from the input.</p>
 </div>
 
 ## 2. 2-D union find
