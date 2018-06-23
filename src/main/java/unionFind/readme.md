@@ -32,6 +32,16 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
     <p><b>Description: </b>Follow up of <a href="https://www.lintcode.com/problem/connecting-graph/description">LintCode 589</a>. Calculate the total unique graph count. 
     Use a global count as initialized to the total number of nodes on start. When there is a connect & re-root operation, <code>count--</code>.</p>
 </div>
+<div>
+    <p>
+        4. 
+        <a href="https://www.lintcode.com/problem/graph-valid-tree/description">LintCode 178</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode178.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode178Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Use union find to decide if the given 2-D array holds a valid tree. There should have and only have exactly one common father after 
+    the uninon find "connect" operation for each edges.</p>
+</div>
 
 ## 2. 2-D union find
 <div>
