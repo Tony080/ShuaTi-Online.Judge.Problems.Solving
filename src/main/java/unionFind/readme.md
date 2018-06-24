@@ -43,7 +43,20 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
     the uninon find "connect" operation for each edges. Otherwise, there can have more than one tree from the input.</p>
 </div>
 
-## 2. 2-D union find
+## 2. Union find in Map format
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/find-the-weak-connected-component-in-the-directed-graph/description">LintCode 432</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode432.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode432Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Since the problem didn't assume the maximum number of verticies. We can't use a simple array in this problem 
+    but rather to use the more complex form - <code>Map</code>. The key point is to write <i>Road compress</i> in Map form. And initialize the Map can be another point to think about.
+     Basically we have to go through the entire graph once to record the vertices' label.</p>
+</div>
+
+## 3. 2-D union find
 <div>
     <p>
         1. 
