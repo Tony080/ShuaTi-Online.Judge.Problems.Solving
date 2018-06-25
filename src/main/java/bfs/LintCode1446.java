@@ -17,10 +17,7 @@ public class LintCode1446 {
       this.hasChangeTheWall = hasChangeTheWall;
     }
   }
-  /**
-   * @param grid: The gird
-   * @return: Return the steps you need at least
-   */
+
   public int getBestRoad(int[][] grid) {
     int[] xBias = new int[]{0, 0, -1, 1};
     int[] yBias = new int[]{-1, 1, 0, 0};
