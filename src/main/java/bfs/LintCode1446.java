@@ -65,6 +65,6 @@ public class LintCode1446 {
   }
 
   private boolean visited(boolean hasChangeTheWall, boolean[][][] set, int newX, int newY) {
-    return set[newX][newY][0] && (!set[newX][newY][1] || (hasChangeTheWall && set[newX][newY][1]));
+    return set[newX][newY][0] && (!set[newX][newY][1] || hasChangeTheWall);
   }
 }
