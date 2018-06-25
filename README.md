@@ -16,7 +16,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 3. [Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 16<br>
+**Total Problems Solved**: 16, **Easy**: 6, **Medium**: 10, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
