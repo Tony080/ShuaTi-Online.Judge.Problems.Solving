@@ -55,6 +55,16 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
     but rather to use the more complex form - <code>Map</code>. The key point is to write <i>Road compress</i> in Map form. And initialize the Map can be another point to think about.
      Basically we have to go through the entire graph once to record the vertices' label.</p>
 </div>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/maximum-association-set/description">LintCode 805</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode805.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode805Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Use the <code>Map<String, String></code> to act as the union find array. After connect each other, find all the set and save their elements as separate list. 
+    Then, iterate through the lists, return the largest one.</p>
+</div>
 
 ## 3. 2-D union find
 <div>
