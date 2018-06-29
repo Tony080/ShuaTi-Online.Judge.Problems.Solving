@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+//Link: https://www.lintcode.com/problem/maximum-association-set/description
+//Title: Maximum Association Set
+//Difficulty: Medium
 public class LintCode805 {
   private Map<String, String> father;
 
