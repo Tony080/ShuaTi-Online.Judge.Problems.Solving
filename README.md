@@ -27,149 +27,149 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <th>Note</th>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/reverse-words-in-a-string/description">LintCode53</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode53.java">LintCode53</a></td>
       <td>Easy</td>
-      <td>Reverse Words in a String</td>
+      <td><a href="https://www.lintcode.com/problem/reverse-words-in-a-string/description">Reverse Words in a String</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/route-between-two-nodes-in-graph/description">LintCode176</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode176.java">LintCode176</a></td>
       <td>Medium</td>
-      <td>Route Between Two Nodes in Graph</td>
+      <td><a href="https://www.lintcode.com/problem/route-between-two-nodes-in-graph/description">Route Between Two Nodes in Graph</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/graph-valid-tree/description">LintCode178</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode178.java">LintCode178</a></td>
       <td>Medium</td>
-      <td>Graph Valid Tree</td>
+      <td><a href="https://www.lintcode.com/problem/graph-valid-tree/description">Graph Valid Tree</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/longest-palindromic-substring/description">LintCode200</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode200.java">LintCode200</a></td>
       <td>Medium</td>
-      <td>Longest Palindromic Substring</td>
+      <td><a href="https://www.lintcode.com/problem/longest-palindromic-substring/description">Longest Palindromic Substring</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/count-1-in-binary/description">LintCode365</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode365.java">LintCode365</a></td>
       <td>Easy</td>
-      <td>Count 1 in Binary</td>
+      <td><a href="https://www.lintcode.com/problem/count-1-in-binary/description">Count 1 in Binary</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/connected-component-in-undirected-graph/description">LintCode431</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode431.java">LintCode431</a></td>
       <td>Medium</td>
-      <td>Connected Component in Undirected Graph</td>
+      <td><a href="https://www.lintcode.com/problem/connected-component-in-undirected-graph/description">Connected Component in Undirected Graph</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/find-the-weak-connected-component-in-the-directed-graph/description">LintCode432</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode432.java">LintCode432</a></td>
       <td>Medium</td>
-      <td>Find the Weak Connected Component in the Directed Graph</td>
+      <td><a href="https://www.lintcode.com/problem/find-the-weak-connected-component-in-the-directed-graph/description">Find the Weak Connected Component in the Directed Graph</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/connecting-graph/description">LintCode589</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode589.java">LintCode589</a></td>
       <td>Medium</td>
-      <td>Connecting Graph</td>
+      <td><a href="https://www.lintcode.com/problem/connecting-graph/description">Connecting Graph</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/connecting-graph-ii/description">LintCode590</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode590.java">LintCode590</a></td>
       <td>Medium</td>
-      <td>Connecting Graph II</td>
+      <td><a href="https://www.lintcode.com/problem/connecting-graph-ii/description">Connecting Graph II</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/connecting-graph-iii/description">LintCode591</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode591.java">LintCode591</a></td>
       <td>Medium</td>
-      <td>Connecting Graph III</td>
+      <td><a href="https://www.lintcode.com/problem/connecting-graph-iii/description">Connecting Graph III</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/knight-shortest-path-ii/description">LintCode630</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode630.java">LintCode630</a></td>
       <td>Medium</td>
-      <td>Knight Shortest Path II</td>
+      <td><a href="https://www.lintcode.com/problem/knight-shortest-path-ii/description">Knight Shortest Path II</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/check-full-binary-tree/description">LintCode726</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode726.java">LintCode726</a></td>
       <td>Medium</td>
-      <td>Check Full Binary Tree</td>
+      <td><a href="https://www.lintcode.com/problem/check-full-binary-tree/description">Check Full Binary Tree</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/portal/description">LintCode750</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode750.java">LintCode750</a></td>
       <td>Medium</td>
-      <td>Portal</td>
+      <td><a href="https://www.lintcode.com/problem/portal/description">Portal</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/maximum-association-set/description">LintCode805</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode805.java">LintCode805</a></td>
       <td>Medium</td>
-      <td>Maximum Association Set</td>
+      <td><a href="https://www.lintcode.com/problem/maximum-association-set/description">Maximum Association Set</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/is-graph-bipartite/description">LintCode1031</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode1031.java">LintCode1031</a></td>
       <td>Medium</td>
-      <td>Is Graph Bipartite?</td>
+      <td><a href="https://www.lintcode.com/problem/is-graph-bipartite/description">Is Graph Bipartite?</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/prime-number-of-set-bits-in-binary-representation/description">LintCode1046</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode1046.java">LintCode1046</a></td>
       <td>Easy</td>
-      <td>Prime Number of Set Bits in Binary Representation</td>
+      <td><a href="https://www.lintcode.com/problem/prime-number-of-set-bits-in-binary-representation/description">Prime Number of Set Bits in Binary Representation</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/detect-capital/description">LintCode1193</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode1193.java">LintCode1193</a></td>
       <td>Easy</td>
-      <td>Detect Capital</td>
+      <td><a href="https://www.lintcode.com/problem/detect-capital/description">Detect Capital</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/log-sorting/description">LintCode1380</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode1380.java">LintCode1380</a></td>
       <td>Easy</td>
-      <td>Log Sorting</td>
+      <td><a href="https://www.lintcode.com/problem/log-sorting/description">Log Sorting</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/set-union/description">LintCode1396</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode1396.java">LintCode1396</a></td>
       <td>Medium</td>
-      <td>Set Union</td>
+      <td><a href="https://www.lintcode.com/problem/set-union/description">Set Union</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/delete-characters/description">LintCode1445</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode1445.java">LintCode1445</a></td>
       <td>Easy</td>
-      <td>Delete Characters</td>
+      <td><a href="https://www.lintcode.com/problem/delete-characters/description">Delete Characters</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.lintcode.com/problem/01-matrix-walking-problem/description">LintCode1446</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode1446.java">LintCode1446</a></td>
       <td>Medium</td>
-      <td>01 Matrix Walking Problem</td>
+      <td><a href="https://www.lintcode.com/problem/01-matrix-walking-problem/description">01 Matrix Walking Problem</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
