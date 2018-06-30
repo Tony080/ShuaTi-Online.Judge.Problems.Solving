@@ -24,6 +24,16 @@ Wiki: https://en.wikipedia.org/wiki/Breadth-first_search
     </p>
     <p><b>Description: </b>Outer node list traversal + inner BFS + set.</p>
 </div>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/route-between-two-nodes-in-graph/description">LintCode 176</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bfs/LintCode176.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bfs/LintCode176Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Start from starting node <code>s</code>, use BFS to search if there has a path from <code>s</code> to <code>t</code>. 
+    <code>Set</code> is introduced to avoid traversing same node twice.</p>
+</div>
 
 ## 4. BFS level traversal with set
 <div>

@@ -18,9 +18,9 @@ public class LintCode432 {
     ArrayList<DirectedGraphNode> neighbors;
     DirectedGraphNode(int x) {
       label = x;
-      neighbors = new ArrayList<DirectedGraphNode>();
+      neighbors = new ArrayList<>();
     }
-  };
+  }
 
   private Map<Integer, Integer> father;
   /*

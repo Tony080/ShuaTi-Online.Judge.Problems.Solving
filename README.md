@@ -16,7 +16,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 3. [Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 18, **Easy**: 6, **Medium**: 12, **Hard**: 0<br>
+**Total Problems Solved**: 19, **Easy**: 6, **Medium**: 13, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -31,6 +31,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td>Reverse Words in a String</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.lintcode.com/problem/route-between-two-nodes-in-graph/description">LintCode176</a></td>
+      <td>Medium</td>
+      <td>Route Between Two Nodes in Graph</td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>
