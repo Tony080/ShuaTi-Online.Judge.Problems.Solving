@@ -48,3 +48,14 @@ Given 2 strings, decide if one string is in another string via some operations(e
     <p><b>Description: </b><code>Stack</code> is considering used in this question. But actually use two <code>StringBuilder</code> to do the stuff. 
     <code>StringBuilder.insert(index, content)</code> is used to act as a stack.</p>
 </div>
+
+## 5. String palindrome
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/longest-palindromic-substring/description">LintCode 200</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode200.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode200Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Iterate through each charater in string. Treat the selected charater as the mid point of palindrome. Find the maximum length of the palindrome based on the spcified charater. Return the largest one.</p>
+</div>

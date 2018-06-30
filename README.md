@@ -16,7 +16,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 3. [Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 17, **Easy**: 6, **Medium**: 11, **Hard**: 0<br>
+**Total Problems Solved**: 18, **Easy**: 6, **Medium**: 12, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -38,6 +38,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td>Graph Valid Tree</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.lintcode.com/problem/longest-palindromic-substring/description">LintCode200</a></td>
+      <td>Medium</td>
+      <td>Longest Palindromic Substring</td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>
