@@ -66,3 +66,16 @@ Wiki: https://en.wikipedia.org/wiki/Breadth-first_search
     </p>
     <p><b>Description: </b>create a 2-D boolean array to use as the set to avoid go to the same step twice. Use level traversal to find the shortest steps to the exit.</p>
 </div>
+
+## 5. BFS level traversal with color(2-color, 3-color and etc.)
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/is-graph-bipartite/description">LintCode 1031</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bfs/LintCode1031.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bfs/LintCode1031Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>An <code>int</code> array is used to store color. Initially the nodes are all uncolored. Marked as <code>1</code>. Then, starting to mark the first node to traverse as <code>1</code>. Then mark the connected node's color as <code>2</code>. If there exists a way to perctly split the entire graph node into 
+    <code>1</code> and <code>2</code>, accept. If there is a conflict when marking color, reject.<br>
+    Notice that, there may have multiple graphs in the given dataset.</p>
+</div>
