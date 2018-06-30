@@ -20,9 +20,9 @@ A repo to solve online judge problems with explanations. Distributed into severa
 <table>
   <tbody>
     <tr>
-      <th>No.</th>
+      <th>No. (Link to <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java">src</a>)</th>
       <th>Difficulty</th>
-      <th>Title</th>
+      <th>Title (Link to <a href="https://www.lintcode.com/problem/">LintCode</a>)</th>
       <th>Category</th>
       <th>Note</th>
     </tr>
