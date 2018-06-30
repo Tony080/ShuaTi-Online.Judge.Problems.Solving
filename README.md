@@ -16,7 +16,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 3. [Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 19, **Easy**: 6, **Medium**: 13, **Hard**: 0<br>
+**Total Problems Solved**: 20, **Easy**: 6, **Medium**: 14, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -107,6 +107,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td><a href="https://www.lintcode.com/problem/check-full-binary-tree/description">LintCode726</a></td>
       <td>Medium</td>
       <td>Check Full Binary Tree</td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.lintcode.com/problem/portal/description">LintCode750</a></td>
+      <td>Medium</td>
+      <td>Portal</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>

@@ -57,3 +57,12 @@ Wiki: https://en.wikipedia.org/wiki/Breadth-first_search
     Basically, <code>set[x][y][0] && !set[x][y][1]</code> means that point has been visited and there is no better way to visit this point. Treat as "closed". <br>
     If the point has been visited(<code>set[x][y][0]</code> is <code>true</code>), but that visit has changed the wall before(<code>set[x][y][0]</code> also <code>true</code>), the point shall remain available for the next visit which didn't change(turn) a wall before.</p>
 </div>
+<div>
+    <p>
+        3. 
+        <a href="https://www.lintcode.com/problem/portal/description">LintCode 750</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bfs/LintCode750.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bfs/LintCode750Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>create a 2-D boolean array to use as the set to avoid go to the same step twice. Use level traversal to find the shortest steps to the exit.</p>
+</div>
