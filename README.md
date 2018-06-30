@@ -22,8 +22,8 @@ A repo to solve online judge problems with explanations. Distributed into severa
     <tr>
       <th>No.</th>
       <th>Difficulty</th>
-      <th>Description</th>
-      <th>Label</th>
+      <th>Title</th>
+      <th>Category</th>
       <th>Note</th>
     </tr>
     <tr>
