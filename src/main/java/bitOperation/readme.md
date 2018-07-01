@@ -33,6 +33,16 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     </p>
     <p><b>Description: </b>First, use XOR operation to calculate the difference of given two numbers and store in <code>c</code>. Then, convert the question to count # of 1's in a number.</p>
 </div>
+<div>
+    <p>
+        4. 
+        <a href="https://www.lintcode.com/problem/o1-check-power-of-2/description">LintCode 142</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode142.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode142Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>If a number is the power of 2, there should only contain one 1 in the number. For example, <code>8(1000)</code> is 2<sup>3</sup>. And 8-1 is <code>7(0111)</code>. Thje result of <code>8&7</code> is 0, accept.
+    On the other hand, <code>6(110)</code> is not the power of 2, and 6-1 is <code>5(101)</code>, <code>6&5!=0</code>, reject. It's done in <code>O(1)</code> time.</p>
+</div>
 
 ## 2. Get highest bit
 <div>

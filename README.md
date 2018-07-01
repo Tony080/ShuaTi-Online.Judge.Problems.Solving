@@ -17,7 +17,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 5. [Array](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 24, **Easy**: 9, **Medium**: 15, **Hard**: 0<br>
+**Total Problems Solved**: 25, **Easy**: 10, **Medium**: 15, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -32,6 +32,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/reverse-words-in-a-string/description">Reverse Words in a String</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode142.java">LintCode142</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/o1-check-power-of-2/description">O(1) Check Power of 2</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
