@@ -17,6 +17,15 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
 <div>
     <p>
         2. 
+        <a href="https://www.lintcode.com/problem/number-of-1-bits/description">LintCode 1332</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode1332.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1332Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Same as LintCode 365.</p>
+</div>
+<div>
+    <p>
+        2. 
         <a href="https://www.lintcode.com/problem/prime-number-of-set-bits-in-binary-representation/description">LintCode 1046</a>:  
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode1046.java">Answer</a>, 
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1046Test.java">Test</a>

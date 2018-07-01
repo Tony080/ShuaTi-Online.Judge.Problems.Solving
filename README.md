@@ -17,7 +17,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 5. [Array](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 26, **Easy**: 11, **Medium**: 15, **Hard**: 0<br>
+**Total Problems Solved**: 27, **Easy**: 12, **Medium**: 15, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -179,6 +179,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/island-perimeter/description">Island Perimeter</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode1332.java">LintCode1332</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/number-of-1-bits/description">Number of 1 Bits</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
