@@ -64,8 +64,17 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     </p>
     <p><b>Description: </b>Use mask <code>0xAAAAAAAA</code> and <code>0x55555555</code> to extract odd bits and even bits. And then, use <code><<</code>, <code>>>></code> and <code>|</code> to swap bits.</p>
 </div>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/binary-number-with-alternating-bits/description">LintCode 987</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode987.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode987Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>If a number is formed by alternating bits, it must has all the bits in even or odd.</p>
+</div>
 
-## 4. Power of 2. -> Power of 4
+## 4. Power of x. x = 2,3,4...
 <div>
     <p>
         1. 
