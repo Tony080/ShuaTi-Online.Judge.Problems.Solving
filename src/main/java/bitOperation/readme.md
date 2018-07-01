@@ -24,3 +24,12 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     <p><b>Description: </b>Iterate from <code>L</code> to <code>R</code>.
     First count # of 1's in that number. Then judge if the # of 1's is a prime number. Finally, return how many # of 1s are prime. The total time complexity is <img src="http://chart.googleapis.com/chart?cht=tx&chl=O(n\sqrt{n})" /></p>
 </div>
+<div>
+    <p>
+        3. 
+        <a href="https://www.lintcode.com/problem/flip-bits/description">LintCode 181</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode181.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode181Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>First, use XOR operation to calculate the different of given two numbers and store in <code>c</code>. Then, convert the question to count # of 1's in a number.</p>
+</div>
