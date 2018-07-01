@@ -17,7 +17,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 5. [Array](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 25, **Easy**: 10, **Medium**: 15, **Hard**: 0<br>
+**Total Problems Solved**: 26, **Easy**: 11, **Medium**: 15, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -67,6 +67,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/longest-palindromic-substring/description">Longest Palindromic Substring</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode236.java">LintCode236</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/swap-bits/description">Swap Bits</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>

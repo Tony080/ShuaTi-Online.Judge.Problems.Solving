@@ -54,3 +54,14 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     </p>
     <p><b>Description: </b>First calculate a number with the same highest 1 followed by 0s. For example, given <code>5(101)</code>. Calculate the the numberwith the highest bit 1: <code>4(100)</code>. Then, fill the number with 1s: <code>7(111)</code>. Then, do XOR operation to find complement.</p>
 </div>
+
+## 3. Get even bits, odd bits
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/swap-bits/description">LintCode 236</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode236.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode236Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Use mask <code>0xAAAAAAAA</code> and <code>0x55555555</code> to extract odd bits and even bits. And then, use <code><<</code>, <code>>>></code> and <code>|</code> to swap bits.</p>
+</div>
