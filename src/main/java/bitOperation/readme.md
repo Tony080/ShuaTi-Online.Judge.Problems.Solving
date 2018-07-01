@@ -31,5 +31,16 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode181.java">Answer</a>, 
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode181Test.java">Test</a>
     </p>
-    <p><b>Description: </b>First, use XOR operation to calculate the different of given two numbers and store in <code>c</code>. Then, convert the question to count # of 1's in a number.</p>
+    <p><b>Description: </b>First, use XOR operation to calculate the difference of given two numbers and store in <code>c</code>. Then, convert the question to count # of 1's in a number.</p>
+</div>
+
+## 2. Get highest bit
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/number-complement/description">LintCode 1218</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode1218.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1218Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>First calculate a number with the same highest 1 followed by 0s. For example, given <code>5(101)</code>. Calculate the the numberwith the highest bit 1: <code>4(100)</code>. Then, fill the number with 1s: <code>7(111)</code>. Then, do XOR operation to find complement.</p>
 </div>
