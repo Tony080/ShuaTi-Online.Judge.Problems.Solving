@@ -110,3 +110,15 @@ See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/
     Then, connect the higher bits mask and lower bits mask together. And do an and(<code>&</code>) operation with input n. For example, we have <code>n=2047(111 1111 1111)</code>, the result after do & with mask is <code>1923(111 1000 0011)</code>.<br>
     Suppose we have <code>m=3(11)</code>, the final result would be <code>1935(111 1000 <b><i>11</i></b>11)</code>.</p>
 </div>
+
+## 6. Check valid bit(s)
+Use <code>&</code>,<code>>>></code> to fast check if the given number is valid from some certain conditions.
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/utf-8-validation/description">LintCode 1262</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode1262.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1262Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Iterate through the given data sets. Notice that, there may have more than 1 UTF-8 charater in the given dataset. And finally, it shall check if there have enough <code>10xxxxxx</code> to match with if the given UTF-8 charater is more than 1 byte long.</p>
+</div>

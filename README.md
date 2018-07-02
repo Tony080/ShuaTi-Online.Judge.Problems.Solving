@@ -18,7 +18,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 6. [Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 32, **Easy**: 15, **Medium**: 17, **Hard**: 0<br>
+**Total Problems Solved**: 33, **Easy**: 15, **Medium**: 18, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -201,6 +201,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/integer-replacement/description">Integer Replacement</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode1262.java">LintCode1262</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/utf-8-validation/description">UTF-8 Validation</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
