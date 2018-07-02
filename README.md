@@ -19,7 +19,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 38, **Easy**: 15, **Medium**: 23, **Hard**: 0<br>
+**Total Problems Solved**: 39, **Easy**: 16, **Medium**: 23, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -174,6 +174,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/maximum-association-set/description">Maximum Association Set</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode835.java">LintCode835</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/hamming-distance/description">Hamming Distance</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
