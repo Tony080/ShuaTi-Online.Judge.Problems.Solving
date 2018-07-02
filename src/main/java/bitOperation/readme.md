@@ -1,7 +1,7 @@
 # Bitwise operation
 wiki: https://en.wikipedia.org/wiki/Bitwise_operation
 
-## 1. Count 1 in a number
+## 1. Count 1 in a number - ``&``
 Any number can be converted to binary format. This kind of questions will ask you to 
 count # of 1's in a number.<br>
 Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(11111)`` contains five 1's.
@@ -52,7 +52,7 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     <p><b>Description: </b>Iterate through 0 to num, counting 1's in each number. Another solution is to use <b><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp#1-on-space-1-d-dp">Dynamic Programming</a></b> to solve the problem. </p>
 </div>
 
-## 2. Get highest bit
+## 2. Get highest bit - ``>>, <<, |``
 <div>
     <p>
         1. 
@@ -63,7 +63,7 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     <p><b>Description: </b>First calculate a number with the same highest 1 followed by 0s. For example, given <code>5(101)</code>. Calculate the the numberwith the highest bit 1: <code>4(100)</code>. Then, fill the number with 1s: <code>7(111)</code>. Then, do XOR operation to find complement.</p>
 </div>
 
-## 3. Get even bits, odd bits
+## 3. Get even bits, odd bits - ``&, 0xAAAA_AAAA, 0x5555_5555``
 <div>
     <p>
         1. 
@@ -83,7 +83,7 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
     <p><b>Description: </b>If a number is formed by alternating bits, it must has all the bits in even or odd.</p>
 </div>
 
-## 4. Power of x. x = 2, 4, 8, 16...
+## 4. Power of x. x = 2, 4, 8, 16... - ``&``
 See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics#1-power-of-x-x--2-4-8-16) for power of x, x != 2, 4, 8, 16...
 <div>
     <p>
@@ -105,7 +105,7 @@ See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/
     <p><b>Description: </b>A number is a power of 4 has to fufill the following description: 1. The number is the power of 2; 2. The only <code>1</code> can only appear at <b>even</b> position in binary representation. That means, <code>8(100)</code> is not the power of 4. But <code>16(1000)</code> is the power of 4.</p>
 </div>
 
-## 5. Mask specified bit(s)
+## 5. Mask specified bit(s) - ``<<, ~, |, &``
 <div>
     <p>
         1. 
@@ -120,7 +120,7 @@ See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/
     Suppose we have <code>m=3(11)</code>, the final result would be <code>1935(111 1000 <b><i>11</i></b>11)</code>.</p>
 </div>
 
-## 6. Check valid bit(s)
+## 6. Check valid bit(s) - ``>>>``
 Use <code>&</code>,<code>>>></code> to fast check if the given number is valid from some certain conditions.
 <div>
     <p>
@@ -132,7 +132,7 @@ Use <code>&</code>,<code>>>></code> to fast check if the given number is valid f
     <p><b>Description: </b>Iterate through the given data sets. Notice that, there may have more than 1 UTF-8 charater in the given dataset. And finally, it shall check if there have enough <code>10xxxxxx</code> to match with if the given UTF-8 charater is more than 1 byte long.</p>
 </div>
 
-## 7. Use integer array as a compressed set for string
+## 7. Use integer array as a compressed set for string - ``|, <<``
 Assume the set is only made by lower case letters, there are 26 letters and an integer has 32 bits. It's enough for an integer to save the existence of each character in a word.
 <div>
     <p>
@@ -145,7 +145,7 @@ Assume the set is only made by lower case letters, there are 26 letters and an i
     If not, check with the length and update if bigger than existing <code>max</code>.</p>
 </div>
 
-## 8. Use integer like hash code with bit operations
+## 8. Use integer like hash code with bit operations - ``<<, |, &``
 If given input can be fulfilled in an integer, we can use the integer as the hash code with bit operations.
 <div>
     <p>
@@ -161,4 +161,17 @@ If given input can be fulfilled in an integer, we can use the integer as the has
     <code>3(11)</code> - <code>T</code><br>
     And the given input only has 10 length. So the total length for each hash code would be 20 bits. It's acceptable to use the integer to save it. And we can use bit manipulation to do the operation. <br>
     What's more, 2 sets are used. One for check if it's already met before, and another is used to check if it's already added to the result list. <code>set.add(value)</code> method will return <code>false</code> if the value has already in the set.</p>
+</div>
+
+##9. [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) - ``>>>, &``
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/total-hamming-distance/description">LintCode 1217</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode1217.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1217Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>To calculate the total hamming distance, instead of iterate through each pair in O(n<sup>2</sup>) time, just calculate 1's and 0's through each bits with all the numbers. And the total distance in that bit would be <code># of 0's</code> * <code># of 1's</code>.<br>
+    Sum up all the distance bit by bit. And we got the total distance. This is done in O(n) time. <br>
+    On the other hand, the easiest way to think is to iterate each pair, and do a XOR(<code>^</code>) operation with each pair. This is done in O(n<sup>2</sup>m) time. Where m is the max # of 1's through all the input numbers.</p>
 </div>

@@ -19,7 +19,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 37, **Easy**: 15, **Medium**: 22, **Hard**: 0<br>
+**Total Problems Solved**: 38, **Easy**: 15, **Medium**: 23, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -202,6 +202,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/detect-capital/description">Detect Capital</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode1217.java">LintCode1217</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/total-hamming-distance/description">Total Hamming Distance</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
