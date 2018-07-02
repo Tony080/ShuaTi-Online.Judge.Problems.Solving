@@ -1,6 +1,6 @@
 # Mathematics operations
 ## 1. Power of x. x != 2, 4, 8, 16...
-See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation#4-power-of-x-x--234) for power of x, x = 2, 4, 8, 16.
+See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation#4-power-of-x-x--2-4-8-16) for power of x, x = 2, 4, 8, 16.
 <div>
     <p>
         1. 

@@ -75,6 +75,7 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
 </div>
 
 ## 4. Power of x. x = 2, 4, 8, 16...
+See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics#1-power-of-x-x--2-4-8-16) for power of x, x != 2, 4, 8, 16...
 <div>
     <p>
         1. 

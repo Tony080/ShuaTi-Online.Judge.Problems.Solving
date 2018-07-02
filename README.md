@@ -15,9 +15,10 @@ A repo to solve online judge problems with explanations. Distributed into severa
 3. [String Manipulation](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string)
 4. [Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)
 5. [Array](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array)
+6. [Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 29, **Easy**: 14, **Medium**: 15, **Hard**: 0<br>
+**Total Problems Solved**: 30, **Easy**: 15, **Medium**: 15, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -193,6 +194,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/power-of-four/description">Power of Four</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics/LintCode1294.java">LintCode1294</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/power-of-three/description">Power of Three</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
       <td></td>
     </tr>
     <tr>
