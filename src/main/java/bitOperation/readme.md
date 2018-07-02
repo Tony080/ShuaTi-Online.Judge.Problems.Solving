@@ -163,7 +163,7 @@ If given input can be fulfilled in an integer, we can use the integer as the has
     What's more, 2 sets are used. One for check if it's already met before, and another is used to check if it's already added to the result list. <code>set.add(value)</code> method will return <code>false</code> if the value has already in the set.</p>
 </div>
 
-##9. [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) - ``^, >>>, &``
+## 9. [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) - ``^, >>>, &``
 <div>
     <p>
         1. 
@@ -173,7 +173,7 @@ If given input can be fulfilled in an integer, we can use the integer as the has
     </p>
     <p><b>Description: </b>Do an XOR(<code>^</code>) operation with each pair. This is done in O(m) time. Where m is the max # of 1's through all the input numbers.</p>
 </div>
-Follow up question:<br>
+<b>Follow up question:</b><br>
 <div>
     <p>
         2. 
