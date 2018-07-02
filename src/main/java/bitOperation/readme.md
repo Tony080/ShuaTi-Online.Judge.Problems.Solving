@@ -195,3 +195,14 @@ If given input can be fulfilled in an integer, we can use the integer as the has
     Sum up all the distance bit by bit. And we got the total distance. This is done in O(n) time. <br>
     On the other hand, the easiest way to think is to iterate each pair, and do a XOR(<code>^</code>) operation with each pair. This is done in O(n<sup>2</sup>m) time. Where m is the max # of 1's through all the input numbers.</p>
 </div>
+
+## 10. Check sparse number - ``&, >>>``
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/next-sparse-number/description">LintCode 721</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode721.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode721Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Use<code>(x & (x >>> 1)) == 0</code> to check if the number is a sparse number.</p>
+</div>
