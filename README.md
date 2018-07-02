@@ -19,7 +19,15 @@ A repo to solve online judge problems with explanations. Distributed into severa
 7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 40, **Easy**: 16, **Medium**: 24, **Hard**: 0<br>
+**Total Problems Solved**: 41, **Easy**: 16, **Medium**: 24, **Hard**: 1<br>
+**String**: 6<br>
+**Array**: 1<br>
+**Mathematics**: 2<br>
+**Union Find**: 7<br>
+**Bit Operation**: 17<br>
+**Dynamic Programming**: 1<br>
+**BFS**: 7<br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -62,6 +70,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/update-bits/description">Update Bits</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode180.java">LintCode180</a></td>
+      <td>Hard</td>
+      <td><a href="https://www.lintcode.com/problem/binary-representation/description">Binary Representation</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>

@@ -59,3 +59,18 @@ Given 2 strings, decide if one string is in another string via some operations(e
     </p>
     <p><b>Description: </b>Iterate through each charater in string. Treat the selected charater as the mid point of palindrome. Find the maximum length of the palindrome based on the spcified charater. Return the largest one.</p>
 </div>
+
+## 6. String to fractional binary
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/binary-representation/description">LintCode 180</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode180.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode180Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Separated into 2 parts:<br>
+    <b>1) Integer part</b>: Collect number from String, and do division and modification(Use <code>&</code> for higher performance) in reverse order to get it's binary representation. 
+    Notice that, do fractional part first in case of it returns an <code>"ERROR"</code> and thus the program calculates the integer binary in vain.<br>
+    <b>2) Fractional Part</b>: Collect the number, compare with the multiplexer <code>5, 25, 125, ...</code> step by step to get the fracional part. If the fractional part is greater equal than the current multiplexer, substract the fractional part with multiplexer, and record an <code>1</code>. Otherwise, record a <code>0</code>.
+    If the length of fractional part is greater than 32, and there are remainning in fractional part, it's not accurately stored in memory, return <code>"ERROR"</code>. If there are <b>all zeros</b> in fractional part, ignore the <code>.</code>.</p>
+</div>
