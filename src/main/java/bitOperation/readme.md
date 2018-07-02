@@ -49,7 +49,7 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode664.java">Answer</a>, 
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode664Test.java">Test</a>
     </p>
-    <p><b>Description: </b>Iterate through 0 to num, counting 1's in each number. Another solution is to use <b>Dynamic Programming</b> to solve the problem. </p>
+    <p><b>Description: </b>Iterate through 0 to num, counting 1's in each number. Another solution is to use <b><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp#1-on-space-1-d-dp">Dynamic Programming</a></b> to solve the problem. </p>
 </div>
 
 ## 2. Get highest bit
