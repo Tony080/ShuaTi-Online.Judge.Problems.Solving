@@ -19,7 +19,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 36, **Easy**: 15, **Medium**: 21, **Hard**: 0<br>
+**Total Problems Solved**: 37, **Easy**: 15, **Medium**: 22, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -160,6 +160,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/portal/description">Portal</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode774.java">LintCode774</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/repeated-dna/description">Repeated DNA</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>

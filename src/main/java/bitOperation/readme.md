@@ -144,3 +144,21 @@ Assume the set is only made by lower case letters, there are 26 letters and an i
     <p><b>Description: </b>Use an integer to save the existance of characters from a string. Use the same size integer array to save the character existance from input words array. Then use and(<code>&</code>) operation to check if there are common charater(s) in different words. 
     If not, check with the length and update if bigger than existing <code>max</code>.</p>
 </div>
+
+## 8. Use integer like hash code with bit operations
+If given input can be fulfilled in an integer, we can use the integer as the hash code with bit operations.
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/repeated-dna/description">LintCode 774</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode774.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode774Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>We can use a simple map:<br>
+    <code>0(00)</code> - <code>A</code><br>
+    <code>1(01)</code> - <code>G</code><br>
+    <code>2(10)</code> - <code>C</code><br>
+    <code>3(11)</code> - <code>T</code><br>
+    And the given input only has 10 length. So the total length for each hash code would be 20 bits. It's acceptable to use the integer to save it. And we can use bit manipulation to do the operation. <br>
+    What's more, 2 sets are used. One for check if it's already met before, and another is used to check if it's already added to the result list. <code>set.add(value)</code> method will return <code>false</code> if the value has already in the set.</p>
+</div>
