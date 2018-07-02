@@ -62,7 +62,7 @@ Like ``32(100000)`` has only one 1's in it's binary representation. While ``31(1
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode236.java">Answer</a>, 
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode236Test.java">Test</a>
     </p>
-    <p><b>Description: </b>Use mask <code>0xAAAAAAAA</code> and <code>0x55555555</code> to extract odd bits and even bits. And then, use <code><<</code>, <code>>>></code> and <code>|</code> to swap bits.</p>
+    <p><b>Description: </b>Use mask <code>0xAAAA AAAA</code>(<code>(A)<sub>16</sub>=(1010)<sub>2</sub></code>) and <code>0x5555 5555</code>(<code>(5)<sub>16</sub>=(0101)<sub>2</sub></code>) to extract odd bits and even bits. And then, use <code><<</code>, <code>>>></code> and <code>|</code> to swap bits.</p>
 </div>
 <div>
     <p>
@@ -94,4 +94,19 @@ See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1285Test.java">Test</a>
     </p>
     <p><b>Description: </b>A number is a power of 4 has to fufill the following description: 1. The number is the power of 2; 2. The only <code>1</code> can only appear at <b>even</b> position in binary representation. That means, <code>8(100)</code> is not the power of 4. But <code>16(1000)</code> is the power of 4.</p>
+</div>
+
+## 5. Mask specified bit(s)
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/update-bits/description">LintCode 179</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode179.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode179Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>The mask is made by 2 parts, the input <code>i</code> and <code>j</code> are the indices start from 0: <br>
+    <b>1) Higher bits mask</b>: Operation <code>~((1L << (j + 1)) - 1)</code> makes the bits lower than j to be <code>0</code>(include j bit), and higher than j to be <code>1</code>(exclude j bit). For example, <code>j=6</code>. The result of the operation will be <code>0xFFFF FF80</code>. <br>
+    <b>2) Lower bits mask</b>: Operation <code>(1L << i) - 1</code> makes the bits lower than i to be <code>1</code>(exclude i bit). For example, <code>i=2</code>. The result of the operation will be <code>0b11</code>.<br>
+    Then, connect the higher bits mask and lower bits mask together. And do an and(<code>&</code>) operation with input n. For example, we have <code>n=2047(111 1111 1111)</code>, the result after do & with mask is <code>1923(111 1000 0011)</code>.<br>
+    Suppose we have <code>m=3(11)</code>, the final result would be <code>1935(111 1000 <b><i>11</i></b>11)</code>.</p>
 </div>

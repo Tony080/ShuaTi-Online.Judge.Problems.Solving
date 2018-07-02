@@ -18,7 +18,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 6. [Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 30, **Easy**: 15, **Medium**: 15, **Hard**: 0<br>
+**Total Problems Solved**: 31, **Easy**: 15, **Medium**: 16, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -54,6 +54,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/graph-valid-tree/description">Graph Valid Tree</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode179.java">LintCode179</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/update-bits/description">Update Bits</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
