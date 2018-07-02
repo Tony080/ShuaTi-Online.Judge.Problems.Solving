@@ -131,3 +131,16 @@ Use <code>&</code>,<code>>>></code> to fast check if the given number is valid f
     </p>
     <p><b>Description: </b>Iterate through the given data sets. Notice that, there may have more than 1 UTF-8 charater in the given dataset. And finally, it shall check if there have enough <code>10xxxxxx</code> to match with if the given UTF-8 charater is more than 1 byte long.</p>
 </div>
+
+## 7. Use integer array as a compressed set for string
+Assume the set is only made by lower case letters, there are 26 letters and an integer has 32 bits. It's enough for an integer to save the existence of each character in a word.
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/maximum-product-of-word-lengths/description">LintCode 1296</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode1296.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode1296Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Use an integer to save the existance of characters from a string. Use the same size integer array to save the character existance from input words array. Then use and(<code>&</code>) operation to check if there are common charater(s) in different words. 
+    If not, check with the length and update if bigger than existing <code>max</code>.</p>
+</div>

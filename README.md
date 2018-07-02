@@ -19,7 +19,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 35, **Easy**: 15, **Medium**: 20, **Hard**: 0<br>
+**Total Problems Solved**: 36, **Easy**: 15, **Medium**: 21, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -237,6 +237,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/power-of-three/description">Power of Three</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode1296.java">LintCode1296</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/maximum-product-of-word-lengths/description">Maximum Product of Word Lengths</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>
