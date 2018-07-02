@@ -9,24 +9,15 @@
 # ShuaTi-Online.Judge.Problems.Solving
 A repo to solve online judge problems with explanations. Distributed into several packages based on the problem categories.
 
-## Table of Contents
-1. [Breadth First Search(BFS)](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs)
-2. [Bitwise Operations](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation)
-3. [String Manipulation](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string)
-4. [Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)
-5. [Array](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array)
-6. [Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)
-7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
-
 ## Table of Solved Problems
 **Total Problems Solved**: 41, **Easy**: 16, **Medium**: 24, **Hard**: 1<br>
-**String**: 6<br>
-**Array**: 1<br>
-**Mathematics**: 2<br>
-**Union Find**: 7<br>
-**Bit Operation**: 17<br>
-**Dynamic Programming**: 1<br>
-**BFS**: 7<br>
+1. **[String](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string)**: 6<br>
+2. **[Array](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array)**: 1<br>
+3. **[Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)**: 2<br>
+4. **[Union Find](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind)**: 7<br>
+5. **[Bit Operation](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation)**: 17<br>
+6. **[Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)**: 1<br>
+7. **[BFS](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs)**: 7<br>
 <br>
 <table>
   <tbody>
