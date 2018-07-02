@@ -19,7 +19,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 7. [Dynamic Programming](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 39, **Easy**: 16, **Medium**: 23, **Hard**: 0<br>
+**Total Problems Solved**: 40, **Easy**: 16, **Medium**: 24, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -146,6 +146,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/counting-bits/description">Counting Bits</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp">Dynamic Programming</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode723.java">LintCode723</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/rotate-bits-left/description">Rotate Bits - Left</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td></td>
     </tr>
     <tr>

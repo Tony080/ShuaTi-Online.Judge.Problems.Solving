@@ -119,6 +119,16 @@ See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/
     Then, connect the higher bits mask and lower bits mask together. And do an and(<code>&</code>) operation with input n. For example, we have <code>n=2047(111 1111 1111)</code>, the result after do & with mask is <code>1923(111 1000 0011)</code>.<br>
     Suppose we have <code>m=3(11)</code>, the final result would be <code>1935(111 1000 <b><i>11</i></b>11)</code>.</p>
 </div>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/rotate-bits-left/description">LintCode 723</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bitOperation/LintCode723.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bitOperation/LintCode723Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Since it's fixed with 32 bits, there is no need to use mask to do this problem. Simply shift left <code>d</code> digits, shift right <code>32-d</code> digits and connect them with the or(<code>|</code>) operation.</p>
+</div>
+
 
 ## 6. Check valid bit(s) - ``>>>``
 Use <code>&</code>,<code>>>></code> to fast check if the given number is valid from some certain conditions.
