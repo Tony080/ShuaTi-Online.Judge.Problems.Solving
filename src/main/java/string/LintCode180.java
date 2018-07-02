@@ -53,7 +53,7 @@ public class LintCode180 {
       }
       multiplexer *= 5;
     }
-    if (sb.length() >= 32 && fracPart != 0) {
+    if (sb.length() >= 32) {
       return false;
     }
 
