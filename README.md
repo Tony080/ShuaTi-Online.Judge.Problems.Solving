@@ -18,7 +18,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 6. [Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 31, **Easy**: 15, **Medium**: 16, **Hard**: 0<br>
+**Total Problems Solved**: 32, **Easy**: 15, **Medium**: 17, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -194,6 +194,13 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/island-perimeter/description">Island Perimeter</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics/LintCode1259.java">LintCode1259</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/integer-replacement/description">Integer Replacement</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
       <td></td>
     </tr>
     <tr>
