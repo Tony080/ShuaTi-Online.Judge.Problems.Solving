@@ -18,7 +18,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
 6. [Mathematics](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics)
 
 ## Table of Solved Problems
-**Total Problems Solved**: 33, **Easy**: 15, **Medium**: 18, **Hard**: 0<br>
+**Total Problems Solved**: 35, **Easy**: 15, **Medium**: 20, **Hard**: 0<br>
 <table>
   <tbody>
     <tr>
@@ -131,6 +131,20 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/knight-shortest-path-ii/description">Knight Shortest Path II</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation/LintCode664.java">LintCode664</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/counting-bits/description">Counting Bits</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp/LintCode664.java">LintCode664</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/counting-bits/description">Counting Bits</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp">Dynamic Programming</a></td>
       <td></td>
     </tr>
     <tr>
