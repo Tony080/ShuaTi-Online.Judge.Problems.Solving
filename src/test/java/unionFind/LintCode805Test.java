@@ -56,10 +56,10 @@ public class LintCode805Test {
   }
 
   private Set<String> createResult3Set() {
-    Set<String> resu3t2Set = new HashSet<>();
-    resu3t2Set.add("a");
-    resu3t2Set.add("b");
-    resu3t2Set.add("c");
-    return resu3t2Set;
+    Set<String> result3Set = new HashSet<>();
+    result3Set.add("a");
+    result3Set.add("b");
+    result3Set.add("c");
+    return result3Set;
   }
 }

@@ -74,18 +74,18 @@ The following content is automatically generated.<br>
     <tr>
       <td>7</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td>9</td>
+      <td>1</td>
       <td>7</td>
-      <td>0</td>
-      <td>7</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>43</td>
-      <td>16</td>
+      <td>45</td>
+      <td>17</td>
       <td>25</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table><br>
@@ -179,6 +179,20 @@ The following content is automatically generated.<br>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode432.java">LintCode432</a></td>
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/find-the-weak-connected-component-in-the-directed-graph/description">Find the Weak Connected Component in the Directed Graph</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode433.java">LintCode433</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/number-of-islands/description">Number of Islands</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind/LintCode434.java">LintCode434</a></td>
+      <td>Hard</td>
+      <td><a href="https://www.lintcode.com/problem/number-of-islands-ii/description">Number of Islands II</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td></td>
     </tr>

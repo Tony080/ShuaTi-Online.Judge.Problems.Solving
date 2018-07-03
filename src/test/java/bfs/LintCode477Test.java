@@ -49,7 +49,7 @@ public class LintCode477Test {
                                     , {'O', 'X', 'O', 'X'}
                                     , {'X', 'O', 'X', 'X'}};
 
-    assertArrayEquals(result1, test1);
+    assertNull(test1);
     assertArrayEquals(result2, test2);
     assertArrayEquals(result3, test3);
     assertArrayEquals(result4, test4);

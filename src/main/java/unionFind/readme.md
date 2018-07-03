@@ -75,5 +75,30 @@ wiki: https://en.wikipedia.org/wiki/Disjoint-set_data_structure
         <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode1396Test.java">Test</a>
     </p>
     <p><b>Description: </b>2-D union find. Treat each row as an element in union find. The final purpose is to count how many unique sets exist.
-    Initialize a huge array to map values from set to a row. The default value is <code>-1</code> which represents map not exist yet.</p>
+    Initialize a huge array to map values from set to a row. The default value is <code>-1</code> which represents mapping not exists yet.</p>
+</div>
+
+## 4. Number of Island Problem
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/number-of-islands/description">LintCode 433</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode433.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode433Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>There are many ways to solve the problem. However, in order to do the follow up question: # of Island II, I choose <b>union find</b> method to solve the problem.<br>
+    The main point is that, construct the mapping between 2-D input array and 1-D union find array. Simply use <code>x * colLength + y</code> to get 1-D mapping.<br>
+    Also, the union find array can be used as the set to prevent <b><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></b> traversing the same element more than once. Initially the value is <code>-1</code>(unvisited), if the input data in the specified gird if <code>true</code>, then change <code>father[x]=x</code>, else change the <code>father[x]=-2</code>.<br>
+    If there are two <code>true</code> nearby, execute the <code>connect</code> operation to merge the union find.</p>
+</div>
+<b>Follow up question</b>:<br>
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/number-of-islands-ii/description">LintCode 434</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/unionFind/LintCode434.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/unionFind/LintCode434Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Since we are using union find, there is no need to create the actual island array. Again, the union find array can be used as the set to avoid looking up same island more than once.<br>
+    Unlike using <b><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></b> to traverse entire island map from previous problem, this problem can be solved by just iterating the input operators and take a look with the direction: up, down, left and right.</p>
 </div>
