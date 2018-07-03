@@ -10,79 +10,79 @@
 A repo to solve online judge problems with explanations. Distributed into several packages based on the problem categories.
 
 ## Table of Solved Problems
-<table>
+<table align="center">
   <tbody>
     <tr>
       <th>No. </th>
       <th>Category</th>
+      <th>Sum</th>
       <th>Easy</th>
       <th>Medium</th>
       <th>Hard</th>
-      <th>Sum</th>
     </tr>
     <tr>
       <td>1</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
       <td>1</td>
-      <td>0</td>
-      <td>0</td>
       <td>1</td>
+      <td>0</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>2</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
-      <td>0</td>
       <td>7</td>
       <td>0</td>
       <td>7</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>3</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td>18</td>
       <td>10</td>
       <td>7</td>
       <td>1</td>
-      <td>18</td>
     </tr>
     <tr>
       <td>4</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp">Dynamic Programming</a></td>
-      <td>0</td>
       <td>1</td>
       <td>0</td>
       <td>1</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>5</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
       <td>0</td>
-      <td>2</td>
     </tr>
     <tr>
       <td>6</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td>6</td>
       <td>4</td>
       <td>1</td>
       <td>1</td>
-      <td>6</td>
     </tr>
     <tr>
       <td>7</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
-      <td>0</td>
       <td>7</td>
       <td>0</td>
       <td>7</td>
+      <td>0</td>
     </tr>
     <tr>
       <td></td>
       <td><b>Total</b></td>
+      <td>42</td>
       <td>16</td>
       <td>24</td>
       <td>2</td>
-      <td>42</td>
     </tr>
   </tbody>
 </table><br>
