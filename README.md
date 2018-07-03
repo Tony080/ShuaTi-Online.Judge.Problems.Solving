@@ -18,6 +18,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <th>Easy</th>
       <th>Medium</th>
       <th>Hard</th>
+      <th>Sum</th>
     </tr>
     <tr>
       <td>1</td>
@@ -25,6 +26,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>1</td>
       <td>0</td>
       <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>2</td>
@@ -32,6 +34,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>0</td>
       <td>7</td>
       <td>0</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>3</td>
@@ -39,6 +42,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>10</td>
       <td>7</td>
       <td>1</td>
+      <td>18</td>
     </tr>
     <tr>
       <td>4</td>
@@ -46,6 +50,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>0</td>
       <td>1</td>
       <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>5</td>
@@ -53,6 +58,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>1</td>
       <td>1</td>
       <td>0</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>6</td>
@@ -60,6 +66,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>4</td>
       <td>1</td>
       <td>1</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>7</td>
@@ -67,6 +74,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>0</td>
       <td>7</td>
       <td>0</td>
+      <td>7</td>
     </tr>
     <tr>
       <td></td>
@@ -74,6 +82,7 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>16</td>
       <td>24</td>
       <td>2</td>
+      <td>42</td>
     </tr>
   </tbody>
 </table><br>
