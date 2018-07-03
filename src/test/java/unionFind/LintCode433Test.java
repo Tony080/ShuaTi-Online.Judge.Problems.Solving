@@ -19,8 +19,11 @@ public class LintCode433Test {
 
     boolean[][] test2 = new boolean[0][];
 
+    boolean[][] test3 = new boolean[5][5];
+    test3[1][1] = true;
     LintCode433 lintCode433 = new LintCode433();
     assertEquals(3, lintCode433.numIslands(test1));
     assertEquals(0, lintCode433.numIslands(test2));
+    assertEquals(1, lintCode433.numIslands(test3));
   }
 }

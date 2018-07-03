@@ -24,6 +24,9 @@ public class LintCode434Test {
     Point[] test5p = new Point[] {new Point(), new Point(0, 1), new Point(2, 2), new Point(3, 3), new Point(3, 4), new Point(4, 3), new Point(5, 3)};
     int test5m = 5;
     int test5n = 6;
+    Point[] test6p = new Point[] {new Point(), new Point(1, 0), new Point(0, 1), new Point(1, 1), new Point(2, 2), new Point(3, 3), new Point(3, 4), new Point(4, 3), new Point(5, 3)};
+    int test6m = 5;
+    int test6n = 6;
 
     LintCode434 lintCode434 = new LintCode434();
     assertArrayEquals(new Integer[] {1, 1, 2, 2}, lintCode434.numIslands2(test1n, test1m, test1p).toArray());
@@ -31,5 +34,6 @@ public class LintCode434Test {
     assertArrayEquals(new Integer[] {1, 1, 2, 3}, lintCode434.numIslands2(test3n, test3m, test3p).toArray());
     assertArrayEquals(new Integer[0], lintCode434.numIslands2(test4n, test4m, test4p).toArray());
     assertArrayEquals(new Integer[] {1, 1, 2, 3, 3, 3, 3}, lintCode434.numIslands2(test5n, test5m, test5p).toArray());
+    assertArrayEquals(new Integer[] {1, 1, 1, 1, 2, 3, 3, 3, 3}, lintCode434.numIslands2(test6n, test6m, test6p).toArray());
   }
 }
