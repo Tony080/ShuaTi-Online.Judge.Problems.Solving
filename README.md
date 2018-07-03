@@ -34,9 +34,9 @@ The following content is automatically generated.<br>
     <tr>
       <td>2</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
-      <td>7</td>
+      <td>8</td>
       <td>0</td>
     </tr>
     <tr>
@@ -82,9 +82,9 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>42</td>
+      <td>43</td>
       <td>16</td>
-      <td>24</td>
+      <td>25</td>
       <td>2</td>
     </tr>
   </tbody>
@@ -180,6 +180,13 @@ The following content is automatically generated.<br>
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/find-the-weak-connected-component-in-the-directed-graph/description">Find the Weak Connected Component in the Directed Graph</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs/LintCode477.java">LintCode477</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/surrounded-regions/description">Surrounded Regions</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
       <td></td>
     </tr>
     <tr>

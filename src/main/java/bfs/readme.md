@@ -79,3 +79,13 @@ Wiki: https://en.wikipedia.org/wiki/Breadth-first_search
     <code>1</code> and <code>2</code>, accept. If there is a conflict when marking color, reject.<br>
     Notice that, there may have multiple graphs in the given dataset.</p>
 </div>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/surrounded-regions/description">LintCode 477</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/bfs/LintCode477.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/bfs/LintCode477Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Write color directly to the input data. If there occurs any <code>O</code> at the edge, color it with <code>I</code>. Which means invalid. And then, add all these invalid points into BFS queue. Starting to "paint" nearby <code>O</code> with same "color"<code>I</code>. <br>
+    After the BFS completed, traverse through the input data source. Rename <code>I</code> to <code>O</code>(That means, they are invalid, so leave them unchanged). And change other "colors"(<code>O</code> & <code>X</code>) to <code>X</code>. Notice that, since we go through every data exactly once, there has no chance to change a data from <code>I</code> -> <code>O</code> -> <code>X</code>.</p>
+</div>
