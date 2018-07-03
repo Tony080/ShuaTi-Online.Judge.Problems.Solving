@@ -1,9 +1,10 @@
 <p align="center">
   <a href="https://travis-ci.org/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving">
-    <img src="https://travis-ci.org/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving.svg?branch=master">
+    <img src="https://travis-ci.org/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving.svg?branch=master" />
   </a>
   <a href="https://codecov.io/gh/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving">
-    <img src="https://codecov.io/gh/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/branch/master/graph/badge.svg">
+    <img src="https://codecov.io/gh/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/branch/master/graph/badge.svg" />
+  </a>
 </p>
   
 # ShuaTi-Online.Judge.Problems.Solving
