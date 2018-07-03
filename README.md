@@ -10,7 +10,7 @@
 A repo to solve online judge problems with explanations. Distributed into several packages based on the problem categories.
 
 ## Table of Solved Problems
-<table align="center">
+<p align="center"><table>
   <tbody>
     <tr>
       <th>No. </th>
@@ -85,8 +85,8 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td>2</td>
     </tr>
   </tbody>
-</table><br>
-<table>
+</table></p><br>
+<p align="center"><table>
   <tbody>
     <tr>
       <th>No. (Link to <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java">src</a>)</th>
@@ -390,4 +390,4 @@ A repo to solve online judge problems with explanations. Distributed into severa
       <td></td>
     </tr>
   </tbody>
-</table>
+</table></p>
