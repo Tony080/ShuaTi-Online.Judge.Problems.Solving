@@ -48,6 +48,16 @@ Given 2 strings, decide if one string is in another string via some operations(e
     <p><b>Description: </b><code>Stack</code> is considering used in this question. But actually use two <code>StringBuilder</code> to do the stuff. 
     <code>StringBuilder.insert(index, content)</code> is used to act as a stack.</p>
 </div>
+<b>Follow up question</b>:<br>
+<div>
+    <p>
+        2. 
+        <a href="https://www.lintcode.com/problem/reverse-words-in-a-string-iii/description">LintCode 1173</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode1173.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode1173Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Reverse each word separated by space. Use 2 <code>StringBuilder</code> to do the string reverse.</p>
+</div>
 
 ## 5. String palindrome
 <div>
