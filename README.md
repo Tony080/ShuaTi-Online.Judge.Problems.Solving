@@ -65,6 +65,14 @@ The following content is automatically generated.<br>
     </tr>
     <tr>
       <td>6</td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack">Stack</a></td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>7</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td>7</td>
       <td>5</td>
@@ -72,7 +80,7 @@ The following content is automatically generated.<br>
       <td>1</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td>9</td>
       <td>1</td>
@@ -82,8 +90,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>46</td>
-      <td>18</td>
+      <td>47</td>
+      <td>19</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -201,6 +209,13 @@ The following content is automatically generated.<br>
       <td>Medium</td>
       <td><a href="https://www.lintcode.com/problem/surrounded-regions/description">Surrounded Regions</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bfs">BFS</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack/LintCode490.java">LintCode490</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/set-of-stacks/description">Set of Stacks</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack">Stack</a></td>
       <td></td>
     </tr>
     <tr>
