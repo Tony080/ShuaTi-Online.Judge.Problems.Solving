@@ -74,8 +74,8 @@ The following content is automatically generated.<br>
     <tr>
       <td>7</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
-      <td>7</td>
-      <td>5</td>
+      <td>8</td>
+      <td>6</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -90,8 +90,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>47</td>
-      <td>19</td>
+      <td>48</td>
+      <td>20</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -174,6 +174,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/count-1-in-binary/description">Count 1 in Binary</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode420.java">LintCode420</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/count-and-say/description">Count and Say</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
     <tr>

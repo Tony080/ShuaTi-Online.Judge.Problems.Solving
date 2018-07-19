@@ -84,3 +84,14 @@ Given 2 strings, decide if one string is in another string via some operations(e
     <b>2) Fractional Part</b>: Collect the number, compare with the multiplexer <code>5, 25, 125, ...</code> step by step to get the fracional part. If the fractional part is greater equal than the current multiplexer, substract the fractional part with multiplexer, and record an <code>1</code>. Otherwise, record a <code>0</code>.
     If the length of fractional part is greater than 32, and there are remainning in fractional part, it's not accurately stored in memory, return <code>"ERROR"</code>. If there are <b>all zeros</b> in fractional part, ignore the <code>.</code>.</p>
 </div>
+
+## 7. String sequence
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/count-and-say/description">LintCode 420</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode420.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode420Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>The count and say is the problem that solves string sequence problem. The initial situation is <code>1</code>, count and say <code>1</code>, and get the result <code>one one(11)</code>. And then count and say <code>11</code> toe get the result <code>two one(21)</code>, and etc..</p>
+</div>
