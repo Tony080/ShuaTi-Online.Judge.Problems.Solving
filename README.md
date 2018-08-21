@@ -41,6 +41,14 @@ The following content is automatically generated.<br>
     </tr>
     <tr>
       <td>3</td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
+      <td>1</td>
+      <td>1</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
       <td>18</td>
       <td>10</td>
@@ -48,7 +56,7 @@ The following content is automatically generated.<br>
       <td>1</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/dp">Dynamic Programming</a></td>
       <td>1</td>
       <td>0</td>
@@ -56,7 +64,7 @@ The following content is automatically generated.<br>
       <td>0</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
       <td>2</td>
       <td>1</td>
@@ -64,7 +72,7 @@ The following content is automatically generated.<br>
       <td>0</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack">Stack</a></td>
       <td>1</td>
       <td>1</td>
@@ -72,7 +80,7 @@ The following content is automatically generated.<br>
       <td>0</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td>8</td>
       <td>6</td>
@@ -80,7 +88,7 @@ The following content is automatically generated.<br>
       <td>1</td>
     </tr>
     <tr>
-      <td>8</td>
+      <td>9</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td>9</td>
       <td>1</td>
@@ -90,8 +98,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>49</td>
-      <td>21</td>
+      <td>50</td>
+      <td>22</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -335,6 +343,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/prime-number-of-set-bits-in-binary-representation/description">Prime Number of Set Bits in Binary Representation</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch/LintCode1056.java">LintCode1056</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/find-smallest-letter-greater-than-target/description">Find Smallest Letter Greater Than Target</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
       <td></td>
     </tr>
     <tr>
