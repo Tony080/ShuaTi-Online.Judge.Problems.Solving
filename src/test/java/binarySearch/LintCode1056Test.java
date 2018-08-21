@@ -9,7 +9,7 @@ public class LintCode1056Test {
   @Test
   public void nextGreatestLetter() {
     char[] test1Letters = new char[] {'c', 'f', 'j'};
-    char[] test2Letters = new char[] {'e', 'e', 'e', 'n', 'n', 'n'};
+    char[] test2Letters = new char[] {'e', 'e', 'e', 'e', 'e', 'n'};
 
     LintCode1056 lintCode1056 = new LintCode1056();
     assertEquals('c', lintCode1056.nextGreatestLetter(test1Letters, 'a'));
