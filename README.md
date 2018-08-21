@@ -26,8 +26,8 @@ The following content is automatically generated.<br>
     <tr>
       <td>1</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -90,8 +90,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>48</td>
-      <td>20</td>
+      <td>49</td>
+      <td>21</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -335,6 +335,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/prime-number-of-set-bits-in-binary-representation/description">Prime Number of Set Bits in Binary Representation</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/bitOperation">Bit Operation</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array/LintCode1138.java">LintCode1138</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/can-place-flowers/description">Can Place Flowers</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
       <td></td>
     </tr>
     <tr>
