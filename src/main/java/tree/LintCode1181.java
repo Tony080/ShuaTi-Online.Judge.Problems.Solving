@@ -1,6 +1,7 @@
 package tree;
 
 import bfs.LintCode726.TreeNode;
+
 //Link: https://www.lintcode.com/problem/diameter-of-binary-tree/description
 //Title: Diameter of Binary Tree
 //Difficulty: Easy
