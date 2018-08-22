@@ -89,6 +89,14 @@ The following content is automatically generated.<br>
     </tr>
     <tr>
       <td>9</td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">Tree</a></td>
+      <td>2</td>
+      <td>2</td>
+      <td>0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>10</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/unionFind">Union Find</a></td>
       <td>9</td>
       <td>1</td>
@@ -363,7 +371,7 @@ The following content is automatically generated.<br>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree/LintCode1137.java">LintCode1137</a></td>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/diameter-of-binary-tree/description">Diameter of Binary Tree</a></td>
-      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">null</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">Tree</a></td>
       <td></td>
     </tr>
     <tr>
@@ -384,7 +392,7 @@ The following content is automatically generated.<br>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree/LintCode1181.java">LintCode1181</a></td>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/diameter-of-binary-tree/description">Diameter of Binary Tree</a></td>
-      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">null</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">Tree</a></td>
       <td></td>
     </tr>
     <tr>
