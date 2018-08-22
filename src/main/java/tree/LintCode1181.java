@@ -5,17 +5,16 @@ import bfs.LintCode726.TreeNode;
 //Title: Diameter of Binary Tree
 //Difficulty: Easy
 public class LintCode1181 {
-  int max = 0;
+  private int max;
+
   public int diameterOfBinaryTree(TreeNode root) {
     // write your code here
+    max = 0;
     helper(root);
     return max;
   }
 
   private int helper(TreeNode root) {
-    if (root == null || (root.left == null && root.right == null)) {
-      return 0;
-    }
     int left = 0;
     int right = 0;
     if (root.left != null) {

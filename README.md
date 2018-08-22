@@ -98,8 +98,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>50</td>
-      <td>22</td>
+      <td>51</td>
+      <td>23</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -364,6 +364,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/reverse-words-in-a-string-iii/description">Reverse Words in a String III</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree/LintCode1181.java">LintCode1181</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/diameter-of-binary-tree/description">Diameter of Binary Tree</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">null</a></td>
       <td></td>
     </tr>
     <tr>
