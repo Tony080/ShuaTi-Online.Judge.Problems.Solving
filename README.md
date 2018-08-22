@@ -26,8 +26,8 @@ The following content is automatically generated.<br>
     <tr>
       <td>1</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
-      <td>2</td>
-      <td>2</td>
+      <td>3</td>
+      <td>3</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -98,8 +98,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>51</td>
-      <td>23</td>
+      <td>52</td>
+      <td>24</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -113,6 +113,13 @@ The following content is automatically generated.<br>
       <th>Title (Link to <a href="https://www.lintcode.com/problem/">LintCode</a>)</th>
       <th>Category</th>
       <th>Note</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array/LintCode8.java">LintCode8</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/rotate-string/description">Rotate String</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array">Array</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode53.java">LintCode53</a></td>
