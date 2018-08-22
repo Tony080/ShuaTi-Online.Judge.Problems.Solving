@@ -98,8 +98,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>52</td>
-      <td>24</td>
+      <td>53</td>
+      <td>25</td>
       <td>25</td>
       <td>3</td>
     </tr>
@@ -357,6 +357,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/find-smallest-letter-greater-than-target/description">Find Smallest Letter Greater Than Target</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree/LintCode1137.java">LintCode1137</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/diameter-of-binary-tree/description">Diameter of Binary Tree</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/tree">null</a></td>
       <td></td>
     </tr>
     <tr>
