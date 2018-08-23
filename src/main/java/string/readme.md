@@ -95,3 +95,16 @@ Given 2 strings, decide if one string is in another string via some operations(e
     </p>
     <p><b>Description: </b>The count and say is the problem that solves string sequence problem. The initial situation is <code>1</code>, count and say <code>1</code>, and get the result <code>one one(11)</code>. And then count and say <code>11</code> toe get the result <code>two one(21)</code>, and etc..</p>
 </div>
+
+## 8. Get next greater number with string(char array)
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/next-greater-element-iii/description">LintCode 1174</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/string/LintCode1174.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/string/LintCode1174Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>To get the next greater number, the first step is convert the integer to char array. Then, look up from the end, find the ascending sequence and exchange the most smallest one in the sequence of two  as the smallest one with the second smallest number afterwards through the number. For example:<br>
+    1321 -> 1 & 3 is the only ascending sequence -> select 1 as the smallest number, look up through 321, we find 2 is the second smallest number -> exchange 1 & 2 -> 2311<br>
+    Then, the next step is sort the rest element, which is <code>311</code> in the example above. And compare with <code>Integer.MAX_VALUE</code>.</p>
+</div>

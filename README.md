@@ -82,9 +82,9 @@ The following content is automatically generated.<br>
     <tr>
       <td>8</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
-      <td>8</td>
+      <td>9</td>
       <td>6</td>
-      <td>1</td>
+      <td>2</td>
       <td>1</td>
     </tr>
     <tr>
@@ -106,9 +106,9 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>54</td>
+      <td>55</td>
       <td>25</td>
-      <td>26</td>
+      <td>27</td>
       <td>3</td>
     </tr>
   </tbody>
@@ -385,6 +385,13 @@ The following content is automatically generated.<br>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode1173.java">LintCode1173</a></td>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/reverse-words-in-a-string-iii/description">Reverse Words in a String III</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string/LintCode1174.java">LintCode1174</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/next-greater-element-iii/description">Next Greater Element III</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
       <td></td>
     </tr>
