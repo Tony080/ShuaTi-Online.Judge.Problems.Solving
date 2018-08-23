@@ -74,9 +74,9 @@ The following content is automatically generated.<br>
     <tr>
       <td>7</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack">Stack</a></td>
+      <td>2</td>
       <td>1</td>
       <td>1</td>
-      <td>0</td>
       <td>0</td>
     </tr>
     <tr>
@@ -106,9 +106,9 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>53</td>
+      <td>54</td>
       <td>25</td>
-      <td>25</td>
+      <td>26</td>
       <td>3</td>
     </tr>
   </tbody>
@@ -400,6 +400,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/detect-capital/description">Detect Capital</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack/LintCode1201.java">LintCode1201</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/next-greater-element-ii/description">Next Greater Element II</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/stack">Stack</a></td>
       <td></td>
     </tr>
     <tr>
