@@ -42,8 +42,8 @@ The following content is automatically generated.<br>
     <tr>
       <td>3</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
-      <td>1</td>
-      <td>1</td>
+      <td>2</td>
+      <td>2</td>
       <td>0</td>
       <td>0</td>
     </tr>
@@ -66,8 +66,8 @@ The following content is automatically generated.<br>
     <tr>
       <td>6</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
+      <td>3</td>
       <td>2</td>
-      <td>1</td>
       <td>1</td>
       <td>0</td>
     </tr>
@@ -106,8 +106,8 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>55</td>
-      <td>25</td>
+      <td>57</td>
+      <td>27</td>
       <td>27</td>
       <td>3</td>
     </tr>
@@ -123,6 +123,13 @@ The following content is automatically generated.<br>
       <th>Note</th>
     </tr>
     <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics/LintCode2.java">LintCode2</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/trailing-zeros/description">Trailing Zeros</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/mathematics">Mathematics</a></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/array/LintCode8.java">LintCode8</a></td>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/rotate-string/description">Rotate String</a></td>
@@ -134,6 +141,13 @@ The following content is automatically generated.<br>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/reverse-words-in-a-string/description">Reverse Words in a String</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/string">String</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch/LintCode60.java">LintCode60</a></td>
+      <td>Easy</td>
+      <td><a href="https://www.lintcode.com/problem/search-insert-position/description">Search Insert Position</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
       <td></td>
     </tr>
     <tr>

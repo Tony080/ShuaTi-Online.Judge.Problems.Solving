@@ -21,3 +21,14 @@ See [here](https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/
     </p>
     <p><b>Description: </b>To decreace the manipulation of division, it's critical to decide to do <code>n--</code> or <code>n++</code>. If a number after doing <code>n--</code> or <code>n++</code> can be contigiously divided twice, then that's the  choice. Because we prefer division rather than addition or substraction.</p>
 </div>
+
+## 3. Trailing zeros from factorial
+<div>
+    <p>
+        1. 
+        <a href="https://www.lintcode.com/problem/trailing-zeros/description">LintCode 2</a>:  
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/main/java/mathmatics/LintCode2.java">Answer</a>, 
+        <a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/blob/master/src/test/java/mathmatics/LintCode2Test.java">Test</a>
+    </p>
+    <p><b>Description: </b>Basically, this problem can be converted to: How many 5's in the fractorial. Because there are more 2's than 5, so whenever there exists a 5, there will have a 10(as a trailing zero).</p>
+</div>
