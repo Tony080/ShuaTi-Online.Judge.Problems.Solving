@@ -42,9 +42,9 @@ The following content is automatically generated.<br>
     <tr>
       <td>3</td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
+      <td>3</td>
       <td>2</td>
-      <td>2</td>
-      <td>0</td>
+      <td>1</td>
       <td>0</td>
     </tr>
     <tr>
@@ -106,9 +106,9 @@ The following content is automatically generated.<br>
     <tr>
       <td></td>
       <td><b>Total</b></td>
-      <td>57</td>
+      <td>58</td>
       <td>27</td>
-      <td>27</td>
+      <td>28</td>
       <td>3</td>
     </tr>
   </tbody>
@@ -147,6 +147,13 @@ The following content is automatically generated.<br>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch/LintCode60.java">LintCode60</a></td>
       <td>Easy</td>
       <td><a href="https://www.lintcode.com/problem/search-insert-position/description">Search Insert Position</a></td>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch/LintCode62.java">LintCode62</a></td>
+      <td>Medium</td>
+      <td><a href="https://www.lintcode.com/problem/search-in-rotated-sorted-array/description">Search in Rotated Sorted Array</a></td>
       <td><a href="https://github.com/Tony-Hu/ShuaTi-Online.Judge.Problems.Solving/tree/master/src/main/java/binarySearch">Binary Search</a></td>
       <td></td>
     </tr>
