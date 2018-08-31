@@ -10,7 +10,6 @@ public class LintCode62 {
     int end = A.length - 1;
     while (start <= end) {
       int mid = start + (end - start) / 2;
-      System.out.println(A[mid]);
       if (A[mid] == target) {
         return mid;
       } else if (A[mid] < target) {
